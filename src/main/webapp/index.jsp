@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <!-- Coding By CodingNepal - www.codingnepalweb.com -->
 <html lang="en">
   <head>
@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>NETFLIX SIGN IN V-12.0</h2>
+      <h2>NETFLIX SIGN IN V-13.0</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
