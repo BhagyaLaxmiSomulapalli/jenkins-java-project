@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <h2> swiiggy </h2>
+    <h4> swiiggy </h4>
     <nav>
       <a href="#"><img src="https://github.com/CanisCoder/jenkins-java-project/blob/master/src/netflixlogo.png?raw=true" alt="logo" /></a>
     </nav>
