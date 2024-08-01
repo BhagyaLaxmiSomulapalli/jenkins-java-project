@@ -14,7 +14,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>NETFLIX SIGN IN V-13.0</h2>
+      <h3>NETFLIX SIGN IN V-13.0</h3>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
